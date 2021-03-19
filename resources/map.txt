@@ -1,0 +1,8 @@
+﻿,,,,LeaveCaveRoom
+,,FindGoldRoom,EmptyRoom,DragonRoom,
+,,EmptyRoom,,FindGoldRoom
+,,EmptyRoom,,
+GoblinRoom,EmptyRoom,StartingRoom,GoblinRoom,FindDaggerRoom
+,,EmptyRoom,,
+,,OgreRoom,FindHealthPotionRoom,
+,,FindUltimateSwordRoom,,
